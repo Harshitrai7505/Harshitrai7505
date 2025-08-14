@@ -1,3 +1,15 @@
+# 💫 Hi 👋, I'm Harshit Rai
+**A passionate Data Analyst**
+
+Email Me 👉 ✉️ **harshitrai7505@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Sales Analysis Project
+- 🌱 **I’m currently learning:** Pyhton libraries
+- 👯 **I’m looking to collaborate on:** Enter your project E-Commerce Sales and info Financial Analysis
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:**Mob.No-7505720488
+- 😄 **Pronouns:** Honey
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_h.a.r.s.h.i.t_88) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitrai88) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitrai7505@gmail.com) 
