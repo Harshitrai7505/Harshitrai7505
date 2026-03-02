@@ -1,4 +1,5 @@
 Hi, I'm Harshit Rai 👋
+
 A passionate Data Analyst with a strong foundation in commerce and business analytics. I enjoy transforming raw data into meaningful insights that help businesses make smarter decisions.
 
 🎓 Pursuing B.Com (Final Year)
